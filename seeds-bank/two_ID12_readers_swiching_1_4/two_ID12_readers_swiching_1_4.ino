@@ -1,12 +1,13 @@
-/* -NO BUGS-
-  two_ID12_readers_switching_1_4
+/* 
+  two_ID12_readers_switching
+  
   reads two data from rfid readers on an Arduino UNO
   by switching between two software serail ports at 2
   seconds interval.
 
-  Library: SoftwareSerial
+  Required library: SoftwareSerial
 
-  Hardware:
+  Required hardware:
   1 Arduino UNO
   2 Innovations ID12 or ID20
   a few 125kHz RFID tags
@@ -15,15 +16,17 @@
   modified from: jCoder's Reading RFID tags with Arduino and ID12:
   <http://jcoder.me/blog/2012/06/19/reading-rfid-tags-with-arduino-and-id12/>
 
-  Modified from: jCoder's code
-  <http://blog.jcoder.me/files/arduino/RFIDReaderExample.txt>
+  Modified from: 
+  two_ID12_readers_switching_1_4
+  jCoder's code <http://blog.jcoder.me/files/arduino/RFIDReaderExample.txt>
 
-  Last modified: 2016-08-11
+  Last modified: 2016-08-12
   By Nanda Khaorapapong
   Contact nanda.krpp@gmail.com
-
-  License: Creative Commons Attribution-ShareAlike 4.0 International Public License
-  <https://creativecommons.org/licenses/>
+  
+  License: 
+  Copyright (c) 2016 Nanda Khaorapapong and Connected Seeds 
+  MIT License <https://opensource.org/licenses/MIT>
 
 */
 
