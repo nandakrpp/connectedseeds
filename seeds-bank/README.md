@@ -5,9 +5,9 @@ date: "18 August 2016"
 output: html_document
 ---
 ## two_ID12_readers_switching
+
 ### Description:
-  This sketch reads two data from rfid readers on an Arduino UNO
-  by switching between two software serail ports at 2 seconds interval.
+  Reading 125kHz RFID tags via two RFID readers on an Arduino by switching between two software serail ports (each is connected to an RFID reader) at 2 seconds interval.
   
 ### Required hardware:
 * An Arduino UNO
