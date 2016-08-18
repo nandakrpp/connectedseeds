@@ -12,7 +12,7 @@ output: html_document
 ### Required hardware:
 * An Arduino UNO
 * Two Innovations ID12 or ID20
-* An 125kHz RFID tags
+* At lesat one 125kHz RFID tag
   
 ### Setup: 
   
