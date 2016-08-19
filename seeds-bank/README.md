@@ -37,7 +37,7 @@ Copyright (c) 2016 Nanda Khaorapapong and Connected Seeds
 
 ```objc
 /*
-  two_ID12_readers_switching_1_4
+  two_ID12_readers_switching
   
   Reading 125kHz RFID tags via two RFID readers on an Arduino by switching 
   between two software serail ports (each is connected to an RFID reader) 
